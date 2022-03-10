@@ -23,3 +23,6 @@ yarn-debug.log*
 yarn-error.log*
 
 /public
+src/App.test.js
+src/styles/style.scss
+src/index.css
